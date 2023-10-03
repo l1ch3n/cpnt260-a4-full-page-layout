@@ -1,6 +1,7 @@
 /* Primary Navigation */
 nav ul {
-  background-color: black;
+  background-color: rgba(0, 73, 55, 0.171);
+  background-image: url("../images/sky-strip.png");
 }
 
 @media (width > 50em) {

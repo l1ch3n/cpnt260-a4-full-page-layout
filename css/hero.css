@@ -6,7 +6,7 @@ body, html {
 /* The hero image */
 .hero-image {
 /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-background-image: linear-gradient(rgba(0, 0, 0, 0.248), rgba(42, 1, 47, 0.615)), url("../images/stars.jpg");
+background-image: linear-gradient(rgba(0, 0, 0, 0.484), rgba(4, 4, 4, 0.171)), url("../images/crop-to-center.jpg");
 
 /* Set a specific height */
 height: 100vh;
@@ -15,7 +15,6 @@ height: 100vh;
 background-position: top;
 background-repeat: no-repeat;
 background-size: cover;
-position: relative;
 }
 
 /* Place text in the middle of the image */
@@ -30,20 +29,6 @@ font-family: Roboto, Arial, sans-serif;
 font-size: larger;
 }
 
-button {
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-}
-
 img {
   width: 250px;
-  }
-
-  article {
-    padding: 2rem;
-    font-family: Neuton, Arial, sans-serif;
-    font-size: 18px;
-    line-height: 1.8;
-    margin: 1rem;
   }

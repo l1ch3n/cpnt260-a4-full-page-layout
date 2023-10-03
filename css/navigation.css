@@ -2,7 +2,7 @@
 /* Clickable links */
 nav a {
   display: block;
-  padding: 1rem;
+  padding: 0.5rem;
 
   color: white;
   text-decoration: none;
