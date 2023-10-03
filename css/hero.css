@@ -9,7 +9,7 @@ body, html {
 background-image: linear-gradient(rgba(0, 0, 0, 0.484), rgba(4, 4, 4, 0.171)), url("../images/crop-to-center.jpg");
 
 /* Set a specific height */
-height: 100vh;
+height: 90vh;
 
 /* Position and center the image to scale nicely on all screens */
 background-position: top;
@@ -25,8 +25,6 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 color: white;
-font-family: Roboto, Arial, sans-serif;
-font-size: larger;
 }
 
 img {

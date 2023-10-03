@@ -2,7 +2,7 @@
 /* Clickable links */
 nav a {
   display: block;
-  padding: 0.8rem;
+  padding: 1rem;
 
   color: white;
   text-decoration: none;
@@ -11,4 +11,20 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
+}
+
+/* Primary Navigation */
+nav ul {
+  background-color: #171e29;
+}
+
+@media (width > 50em) {
+  body {
+    font-size: 22px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: flex-end;
+  }
 }

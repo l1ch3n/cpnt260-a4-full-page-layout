@@ -1,15 +1,5 @@
-/* Primary Navigation */
-nav ul {
+main {
   background-color: #171e29;
-}
-
-@media (width > 50em) {
-  body {
-    font-size: 22px;
-  }
-  
-  nav ul {
-    display: flex;
-    justify-content: flex-end;
-  }
+  color: white;
+  margin: 0%;
 }
