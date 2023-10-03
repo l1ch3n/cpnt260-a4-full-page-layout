@@ -2,7 +2,7 @@
 /* Clickable links */
 nav a {
   display: block;
-  padding: 0.5rem;
+  padding: 0.8rem;
 
   color: white;
   text-decoration: none;
@@ -10,6 +10,5 @@ nav a {
 }
 
 nav a:hover {
-  color: black;
-  background-color: white;
+  text-decoration: underline;
 }
